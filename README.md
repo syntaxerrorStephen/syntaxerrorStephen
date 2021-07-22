@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# If You're Reading This It Means I Broke Something 👍
+## If You're Reading This It Means I Broke Something 👍
 
 <!--
 **syntaxerrorStephen/syntaxerrorStephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
