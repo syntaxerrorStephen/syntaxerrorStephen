@@ -9,8 +9,7 @@ I'm building some pretty cool AI and automation software
 - 🔭 I’m currently working on AI deep learning classification.
 - 📚 I’m currently learning  deep learning models, PyTorch and React. 
 
-⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
+⭐️ From [Stephen Flynn](https://github.com/syntaxerrorStephen)
 
 
 <!--
