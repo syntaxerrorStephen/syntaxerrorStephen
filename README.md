@@ -34,7 +34,7 @@ I'm building some pretty cool AI, automation software and writing some interesti
 
 <br/>
 
-📈 my github stats
+📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=syntaxerrorStephen&show_icons=true&theme=gotham" alt="syntaxerrorStephen" />
 
