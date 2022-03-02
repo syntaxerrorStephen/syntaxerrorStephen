@@ -5,8 +5,6 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-![](https://visitor-badge.glitch.me/badge?page_id=syntaxerrorStephen.syntaxerrorStephen)
-
 I'm building some pretty cool AI, automation software and writing some interesting bugs!
 - 🔭 I’m currently working on AI deep learning classification within medicine.
 - 📚 I’m currently learning  deep learning models, PyTorch and React. 
@@ -35,6 +33,10 @@ I'm building some pretty cool AI, automation software and writing some interesti
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=syntaxerrorStephen&show_icons=true&theme=gotham" alt="syntaxerrorStephen" />
 
 ⭐️ From [Stephen Flynn](https://github.com/syntaxerrorStephen)
 
