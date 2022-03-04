@@ -36,9 +36,9 @@ I'm building some pretty cool AI, automation software and writing some interesti
 
 📈 My Github Stats
 
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=syntaxerrorStephen&hide_border=true&theme=redical)
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=syntaxerrorStephen&show_icons=true&theme=gotham" alt="syntaxerrorStephen" />
+  
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=syntaxerrorStephen&hide_border=true&theme=redical)
 
 ⭐️ From [Stephen Flynn](https://github.com/syntaxerrorStephen)
 
