@@ -7,6 +7,7 @@
 
 I'm building some pretty cool AI, automation software and writing some interesting bugs!
 - 🔭 I’m currently working on AI deep learning classification within medicine.
+- 🧪 Irish Times and Independent published!
 - 📚 I’m currently learning  deep learning models, PyTorch and React. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
